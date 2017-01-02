@@ -240,3 +240,5 @@ tor_ExitPolicy:
   - accept *:50002
   - accept *:64738
   - reject *:*
+
+tor_DirCache: 1
